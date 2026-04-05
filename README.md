@@ -12,7 +12,7 @@
 Este icono ha sido optimizado para ocupar poco espacio y mantener la claridad visual en resoluciones pequeñas (100x100 píxeles).
 
 <p align="center">
-  <img src="tu-imagen.png" alt="Bot Head Avatar" width="100">
+  <img src="img/bot.png" alt="Bot Head Avatar" width="100">
 </p>
 
 > [!IMPORTANT]
